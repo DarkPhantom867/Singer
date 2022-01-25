@@ -1,0 +1,46 @@
+body{background-color: blueviolet;}
+.text-container{
+ display: flex;
+ height: 0%;
+ width: 100%;
+ background-image: linear-gradient(pink, violet)
+}
+#flex1{background-image: url("Alan.jpg");
+    width: 50%;
+    height:400px;
+    margin: 8px;}
+#flex2{background-image: linear-gradient(to right,cyan,indigo,violet);
+    width: 50%;
+    height:400px;
+    margin: 10px;
+    font-size: x-large;}
+#para1{background-color: cornflowerblue;
+      font-size: x-large;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;}
+#para2{background-color: cornflowerblue;
+      font-size: x-large;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;}
+#imp1{background-color: darkcyan;
+     font-size: xx-large;
+     font-family: serif;
+     text-align: center;}
+#imp2{background-color: darkcyan;
+     font-size: xx-large;
+     font-family: serif;}
+#noice{background-color: violet;
+      font-size: xx-large;
+      font-family: serif;}
+#imp3{background-color: turquoise;
+     font-size: x-large;
+     font-family: serif;}
+#imp4{background-color: turquoise;
+     font-size: xx-large;
+     font-family: sans-serif;}
+#new1{background-color:aqua;
+     font-size: x-large;
+     font-family: fantasy;}
+nav{background-color: cyan;}
+nav li{list-style: none;
+    display: inline-block;
+    padding: 10px;}
+    
